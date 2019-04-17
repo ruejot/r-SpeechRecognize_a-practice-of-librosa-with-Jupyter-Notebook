@@ -1,1 +1,1 @@
-# r4-relationship-analysis-by-words-of-the-novel
+# a practice of librosa with Jupyter Notebook
