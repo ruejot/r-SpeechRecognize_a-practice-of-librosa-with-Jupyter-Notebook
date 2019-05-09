@@ -1,5 +1,6 @@
 # python_語音辨識練習
 基於tensorflow之公開dataset作單詞語音識別。過程中使用Librosa與Keras操作。  
+於Jupyter Notobook環境下進行
 
 來源 [Tensorflow](https://www.tensorflow.org/tutorials/sequences/audio_recognition#tensorboard "Simple Audio Recognition")、[SimpleSpeechRecognizer](https://github.com/manashmndl/DeadSimpleSpeechRecognizer "git")
 
