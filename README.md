@@ -13,7 +13,7 @@ dataset是在Tenseoflow_Tutorials中的Simple Audio Recognition所提及。
 並存至.npy以供之後訓練。
 
 ## 辨識學習
-這裡提取資料集其中的5項單詞作為分類目標{'one'、'two'、'three'、'four'、'five'}。  
+這裡提取資料集其中的4項單詞作為分類目標{''、'one'、'two'、'three'}。  
 在訓練前，有先對各項擷取前2個音檔出來作為手動驗證目標，存在testSample目錄下。  
 其餘的使用sklearn套件和Kersa作訓練/測試以完成模型。
 
