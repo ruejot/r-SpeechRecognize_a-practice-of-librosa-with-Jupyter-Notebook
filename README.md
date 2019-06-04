@@ -5,8 +5,8 @@
 來源 [Tensorflow](https://www.tensorflow.org/tutorials/sequences/audio_recognition#tensorboard "Simple Audio Recognition")、[SimpleSpeechRecognizer](https://github.com/manashmndl/DeadSimpleSpeechRecognizer "git")
 
 ## Dataset
-dataset是在Tenseoflow_Tutorials中的Simple Audio Recognition所提及。  
-下在連結於Speech Commands dataset。
+該項開源資料庫是在Tenseoflow_Tutorials中的Simple Audio Recognition所提及。  
+並可供下載(Speech Commands dataset)。
 
 ## MFCC
 其中從.wav音訊檔提取MFCC特徵是使用Librosa實現。  
